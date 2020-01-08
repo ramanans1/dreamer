@@ -33,7 +33,9 @@ model maximizes value estimates by propgating their analytic gradients back
 through imagined trajectories. When interacting with the environment, it simply
 executes the action model.
 
-Find out more:
+Test
+
+Find out more: 
 
 - [Project website][website]
 - [PDF paper][paper]
